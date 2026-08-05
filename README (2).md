@@ -17,10 +17,10 @@ python main.py
 ## Namuna
 
 ```
-Ismingizni kiriting: Yusuf
+Ismingizni kiriting: Ali
 Parolni kiriting: myPassword123
 
-Ism: Yusuf
+Ism: Ali
 Parol (hash): $2b$12$iIJUKhIjVKWHBRrZkF3ZmOMnwiQ/1gm5TDyLpX4o8G5b8EnUKPWuC
 ```
 
